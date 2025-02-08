@@ -13,3 +13,14 @@ Optional Resources:
 Codewars - Gamified practise questions
 edabit - Thousands of practise questions
 Dom : document object model : tamam un chizi k too un safhe render shode , it is like a up side down tree 
+--------
+DOM ( Document Object Model ).
+
+Each HTML element is an object that directly or indirectly is connected to document object through DOM. The whole idea is  
+What’s a DOM? it’s the webpage.It stands for “Document Object Model”.  representation of the web document that has a programming structure that 
+can be changed.
+We are going to learn how to select things, by understanding the DOM manipulation. 
+we are going to learn how to make our documents do things. 
+whatever you can see on the browser is your DOM, it is stands for Document Object Model 
+we only created static web pages by html, now we will create dynamic pages. 
+now from the html structure you can select the elements and create your first JS dynamic pages. 
