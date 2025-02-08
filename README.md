@@ -12,3 +12,4 @@ Codecadamy Make Interactive Javascript Website (Chapter 2)
 Optional Resources:
 Codewars - Gamified practise questions
 edabit - Thousands of practise questions
+Dom : document object model : tamam un chizi k too un safhe render shode , it is like a up side down tree 
