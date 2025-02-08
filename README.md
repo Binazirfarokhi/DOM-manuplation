@@ -1,6 +1,11 @@
 
 --------
 DOM ( Document Object Model ).
+amandeep video>: https://www.loom.com/share/62e13a4bc51a49838f0145702233bdf1?sid=babfc278-4405-4b81-b091-2a6e6c43af1d
+https://www.loom.com/share/17448e3c98214eddbc4203e6c891ebf4?sid=5c2b4199-79be-484e-b0d2-8455081412f1
+
+
+
 
 Each HTML element is an object that directly or indirectly is connected to document object through DOM.  
 What’s a DOM? it’s the webpage.It stands for “Document Object Model”.  
